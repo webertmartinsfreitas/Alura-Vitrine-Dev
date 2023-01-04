@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Dashboards no Power BI**
-| :label: Tecnologias | m, dax, sql (tecnologias utilizadas)
+| :label: Tecnologias | m, dax, sql
 | :rocket: URL         | https://teste.com.br
 | :fire: Desafio     | https://teste.com.br
 
