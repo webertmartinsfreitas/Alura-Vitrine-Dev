@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Dashboards no Power BI**
 | :label: Tecnologias | m, dax, sql
-| :rocket: URL         | https://teste.com.br
+| :rocket: URL         | https://github.com/webertmartinsfreitas/Alura-Vitrine-Dev
 | :fire: Desafio     | https://teste.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
